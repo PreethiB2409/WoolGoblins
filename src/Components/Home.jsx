@@ -77,8 +77,8 @@ function Home()
         <div id="contact" className="contact-container">
           <h2 className="contact-title">Contact Me</h2>
           <nav className="contact-nav">
-            <Link to="https://www.instagram.com/apple_patxh?igsh=MXU1M2VmdWlraGlt">Instagram</Link><br />
-            <Link to="mailto:youremail@example.com">Email-Id</Link>
+            <Link to="https://www.instagram.com/woolgoblins/">Instagram: @woolgoblins</Link><br />
+            <Link to="mailto:woolgoblins@gmail.com">Email-Id: woolgoblins@gmail.com</Link>
           </nav>
           <p className="contact-number">Phone Number: 97425 99296</p>
           <img src="/BEAF2D85-2BD2-4D3C-8C4F-CDDFE2DC45BA.PNG" />

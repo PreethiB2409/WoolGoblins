@@ -129,7 +129,7 @@ html, body {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  margin-top: 20%;
+  margin-top: 15%;
 }
 
 .archives-nav-button button{
@@ -161,7 +161,7 @@ html, body {
   font-family: 'Spicy Rice';
   font-size: 3rem;
   text-align: left;
-  margin-top: auto;
+  margin-top: 3%;
   margin-left: 3%;
 }
 
@@ -181,8 +181,7 @@ html, body {
   font-family: 'Spicy Rice';
   font-size: 3rem;
   text-align: center;
-  margin-top: 7%;
-  margin-left: 3%;
+  margin-top: 6%;
   margin-bottom: -1%;
 }
 
