@@ -1,2 +1,3 @@
-WEBSITSE: https://preethib2409.github.io/WoolGoblins/
+WEBSITE: https://preethib2409.github.io/WoolGoblins/
+
 Wool Goblins is a small crochet business that creates handmade, high-quality pieces with care, precision, and personality. Every item is thoughtfully crafted by hand, with a focus on unique designs, soft textures, and fine details that make each piece stand out. The shop offers a variety of cozy crochet goods — from fun and functional keychains to plush toys, wearables, and custom orders tailored to your ideas. Whether you're looking for a small gift or a one-of-a-kind creation, Wool Goblins delivers charming, handcrafted pieces made to bring a little warmth and joy to your day.
